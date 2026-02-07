@@ -146,10 +146,7 @@ Smart_File_Sorter/
 ├── build_installer.bat         # Batch script to build installer
 ├── installer_script.iss        # Inno Setup installer script
 │
-├── README.md                   # Original README
-├── README1.md                  # Comprehensive README (this file)
-├── QUICKSTART.md              # Quick start guide
-├── PORTFOLIO_GUIDE.md         # Portfolio highlights
+├── README.md                   # README
 ├── LICENSE                    # MIT License
 ├── config.json                # Auto-generated (user config)
 ├── history.json               # Auto-generated (undo history)
