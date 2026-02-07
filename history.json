@@ -1,0 +1,164 @@
+[
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\app.js",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Code\\app.js",
+        "timestamp": "2026-01-31T12:10:58.566643",
+        "category": "Code"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\archive.rar",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Archives\\archive.rar",
+        "timestamp": "2026-01-31T12:10:58.578727",
+        "category": "Archives"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\backup.zip",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Archives\\backup.zip",
+        "timestamp": "2026-01-31T12:10:58.580782",
+        "category": "Archives"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\budget.xlsx",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Documents\\budget.xlsx",
+        "timestamp": "2026-01-31T12:10:58.596011",
+        "category": "Documents"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\clip.avi",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Videos\\clip.avi",
+        "timestamp": "2026-01-31T12:10:58.610124",
+        "category": "Videos"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\compressed.7z",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Archives\\compressed.7z",
+        "timestamp": "2026-01-31T12:10:58.621200",
+        "category": "Archives"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\copy_of_duplicate_doc.txt",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Documents\\copy_of_duplicate_doc.txt",
+        "timestamp": "2026-01-31T12:10:58.632755",
+        "category": "Documents"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\copy_of_duplicate_photo.jpg",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Images\\copy_of_duplicate_photo.jpg",
+        "timestamp": "2026-01-31T12:10:58.645748",
+        "category": "Images"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\data.json",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Code\\data.json",
+        "timestamp": "2026-01-31T12:10:58.658469",
+        "category": "Code"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\diagram.svg",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Duplicates\\diagram.svg",
+        "timestamp": "2026-01-31T12:10:58.662951",
+        "category": "Duplicates"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\duplicate_doc.txt",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Duplicates\\duplicate_doc.txt",
+        "timestamp": "2026-01-31T12:10:58.666802",
+        "category": "Duplicates"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\duplicate_photo.jpg",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Duplicates\\duplicate_photo.jpg",
+        "timestamp": "2026-01-31T12:10:58.670909",
+        "category": "Duplicates"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\icon.ico",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Duplicates\\icon.ico",
+        "timestamp": "2026-01-31T12:10:58.674390",
+        "category": "Duplicates"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\letter.docx",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Documents\\letter.docx",
+        "timestamp": "2026-01-31T12:10:58.687158",
+        "category": "Documents"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\movie.mkv",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Videos\\movie.mkv",
+        "timestamp": "2026-01-31T12:10:58.699592",
+        "category": "Videos"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\notes.txt",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Documents\\notes.txt",
+        "timestamp": "2026-01-31T12:10:58.715588",
+        "category": "Documents"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\podcast.wav",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Audio\\podcast.wav",
+        "timestamp": "2026-01-31T12:10:58.727389",
+        "category": "Audio"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\presentation.pptx",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Documents\\presentation.pptx",
+        "timestamp": "2026-01-31T12:10:58.740741",
+        "category": "Documents"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\recording.m4a",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Audio\\recording.m4a",
+        "timestamp": "2026-01-31T12:10:58.753068",
+        "category": "Audio"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\report.pdf",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Documents\\report.pdf",
+        "timestamp": "2026-01-31T12:10:58.765343",
+        "category": "Documents"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\screenshot.png",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Duplicates\\screenshot.png",
+        "timestamp": "2026-01-31T12:10:58.771722",
+        "category": "Duplicates"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\script.py",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Code\\script.py",
+        "timestamp": "2026-01-31T12:10:58.774490",
+        "category": "Code"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\song.mp3",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Audio\\song.mp3",
+        "timestamp": "2026-01-31T12:10:58.788018",
+        "category": "Audio"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\styles.css",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Code\\styles.css",
+        "timestamp": "2026-01-31T12:10:58.791692",
+        "category": "Code"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\tutorial.mp4",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Videos\\tutorial.mp4",
+        "timestamp": "2026-01-31T12:10:58.804086",
+        "category": "Videos"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\vacation_photo.jpg",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Duplicates\\vacation_photo.jpg",
+        "timestamp": "2026-01-31T12:10:58.811218",
+        "category": "Duplicates"
+    },
+    {
+        "source": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\webpage.html",
+        "destination": "C:/Users/anuwa/Downloads/Steel Works2/demo_files\\Code\\webpage.html",
+        "timestamp": "2026-01-31T12:10:58.824853",
+        "category": "Code"
+    }
+]
